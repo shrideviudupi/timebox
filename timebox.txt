@@ -1,3 +1,4 @@
 planning 
 requirement analysis
 Design
+coding
